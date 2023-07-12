@@ -1,0 +1,1 @@
+dlv debug ./main.go --init debug.cmd
